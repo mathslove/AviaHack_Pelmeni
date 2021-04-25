@@ -1,0 +1,26 @@
+platform :ios, '12.0'
+
+target 'HRApp' do
+  use_frameworks!
+  inhibit_all_warnings!
+
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'SwiftyJSON'
+  pod 'SnapKit'
+  pod 'Firebase/Core'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Storage'
+  pod 'RxFirebase/Auth'
+  pod 'RxFirebase/Firestore'
+  pod 'RxFirebase/Storage'
+  pod 'RxGesture'
+  pod 'RxDataSources'
+  pod 'RxKeyboard'
+  pod 'AloeStackView'
+  pod 'WSTagsField'
+  pod 'SwiftyMenu', '~> 0.6.5'
+  pod 'Charts'
+end

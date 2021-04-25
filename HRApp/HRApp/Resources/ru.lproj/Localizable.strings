@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  HRApp
+
+  Created by Даниил Храповицкий on 23.04.2021.
+  
+*/
+
+// MARK: - Titles
+"registration" = "Регистрация";
+"authorization" = "Авторизация";
+"emailConfirmation" = "Подтверждение почты";
+"extraInformation" = "Информация";
+
+// MARK: - Button
+"signUp" = "Зарегистрироваться";
+"signIn" = "Войти";
+"job_" = "Работу";
+"employee_" = "Работника";
+"takePhoto" = "Сделать фото";
+"library" = "Выбрать из Библиотеки";
+"cancel" = "Отменить";
+"loadpdf" = "Загрузить из PDF";
+"save" = "Сохранить";
+
+// MARK: - Placeholders
+"email" = "Email";
+"password" = "Пароль";
+"repeatPassword" = "Повторите пароль";
+"chooseGraph" = "Выберите график работы...";
+
+// id
+"firstname" = "Имя";
+"secondname" = "Фамилия";
+"thirdname" = "Отчество (если есть)";
+
+// title
+"title" = "Описание";
+
+// city
+"city" = "Город";
+
+// relocete
+"relocate" = "Возможность переезда";
+
+// salary
+"salary" = "Желаемый уровень дохода (рубли)";
+
+// Occupation
+"graph" = "График работы";
+
+// target
+"objective" = "Цель работы";
+
+// exp
+"experience" = "Опыт работы";
+
+// skills
+"skills" = "Навыки";
+"skill" = "Навык";
+"addSkill" = "Добавить навык +";
+
+// add
+"addInfo" = "Дополнительная информация";
+
+// tag
+"tags" = "Теги";
+
+// oneWeekend
+"fulltime" = "Полный рабочий день";
+"parttime" = "Периодичный";
+
+// edu
+"edu" = "Образование и лицензии";
+
+// MARK: - Texts
+"emailSended" = "Письмо с подтверждением было отправлено на почту: ";
+"iSearchFor" = "Я ищу...";
+
+"timeFull" = "5/2";
+"timeLe" = "4/2";
+"timeMo" = "3/2";
+"timeEq" = "2/2";
+"timeSm" = "1/1";
+"timeIn" = "Индивидуальный график";
+"timeFr" = "Свободный график";
+
+
